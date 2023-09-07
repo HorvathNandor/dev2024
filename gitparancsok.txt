@@ -1,1 +1,5 @@
-
+git config --global user.name “[name]” Ez a parancs beállítja a felhasználónevet.
+git config --global user.email “[email]” Ez a parancs beállít egy e-mail címet.
+git status Ez a parancs felsorolja az összes befejezendő fájlt.
+git commit -a Ez a parancs az összes módosított vagy létrehozott fájlt véglegesíti a repositoryban.
+git branch Ez a parancs felsorolja a repositoryban elérhető ágakat.
